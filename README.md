@@ -1,4 +1,4 @@
-# Q&A Rag Pipeline
+# Q&A RAG Pipeline
 
 ## What it does
 - extracts text and images from a WebMD article about migraines*
